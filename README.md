@@ -308,3 +308,4 @@ Bytebot is open source under the Apache 2.0 license.
 <sub>Built by [Tantl Labs](https://tantl.com) and the open source community</sub>
 
 </div>
+
